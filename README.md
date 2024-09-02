@@ -30,7 +30,7 @@ To further safeguard your staking operations, our Institutional Cluster employs 
 
 #### **5. Superior Performance and Reliability**
 
-Chainbase Staking’s infrastructure is designed for high performance, with an average node performance rate exceeding 99.9%. Supported by the SSV Network and a global network of top operators, our platform delivers exceptional uptime, ensuring that your staking activities are both reliable and profitable.
+Chainbase Staking’s infrastructure is designed for high performance, with an average node performance rate exceeding 99%. Supported by the SSV Network and a global network of top operators, our platform delivers exceptional uptime, ensuring that your staking activities are both reliable and profitable.
 
 #### **6. Cost-Efficient Staking Solutions**
 
@@ -39,6 +39,8 @@ Our approach to staking is not only secure but also cost-effective. By diversify
 #### **7. Verified Staking Provider Status**
 
 Chainbase Staking is recognized as a Verified Staking Provider on StakingRewards, a testament to our commitment to excellence and our proven track record in the staking industry. This verification highlights our dedication to providing secure, reliable, and high-performance staking services.
+
+### **Conclusion**
 
 Chainbase Staking is more than just a platform; it’s a comprehensive solution for securing and maximizing the value of your Ethereum investments. With a strong foundation built on Distributed Validator Technology, strategic partnerships, and a commitment to security and performance, Chainbase Staking offers an unparalleled staking experience.
 
